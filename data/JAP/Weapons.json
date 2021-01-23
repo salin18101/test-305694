@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"animationId":6,"description":"幅広い刃を持つ直剣","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"ブロードソード","note":"","params":[0,0,8,0,0,0,0,0],"price":100,"wtypeId":2},
+{"id":2,"animationId":6,"description":"標準的な直剣","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"ロングソード","note":"","params":[0,0,15,0,0,0,0,0],"price":300,"wtypeId":2},
+{"id":3,"animationId":6,"description":"ひと回り大きな大剣","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":112,"name":"クレイモア","note":"","params":[0,0,23,0,0,0,0,0],"price":500,"wtypeId":2},
+{"id":4,"animationId":6,"description":"広く普及した大剣","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":112,"name":"バスタードソード","note":"","params":[0,0,29,0,0,0,0,0],"price":700,"wtypeId":2},
+{"id":5,"animationId":6,"description":"龍の鱗から作られたと伝えられている剣","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"龍鱗の剣","note":"","params":[0,0,38,0,0,0,0,0],"price":1500,"wtypeId":2}
+]
